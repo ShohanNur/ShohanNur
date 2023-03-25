@@ -1,5 +1,5 @@
 ### About Me
-- [linkedin/ShohanurRahman](https://www.linkedin.com/in/shohanur-rahman-0a611517b/)
+- [linkedin/ShohanurRahman](https://www.linkedin.com/in/md-shohanur-rahman-0a611517b/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanNur&label=Profile%20views&color=0e75b6&style=flat" alt="ShohanNur" /> </p>
 
